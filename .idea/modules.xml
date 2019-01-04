@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Pythonic/.idea/Pythonic.iml" filepath="$PROJECT_DIR$/../Pythonic/.idea/Pythonic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../TOUTIAO/.idea/TOUTIAO.iml" filepath="$PROJECT_DIR$/../TOUTIAO/.idea/TOUTIAO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../WTFpython/.idea/WTFpython.iml" filepath="$PROJECT_DIR$/../WTFpython/.idea/WTFpython.iml" />
     </modules>
   </component>
 </project>
