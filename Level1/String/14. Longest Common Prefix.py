@@ -32,6 +32,9 @@ def longestCommonPrefix3(strs):
 	pass
 
 # Prefix trie：前缀树
+def trie():
+	
+	pass
 
 if __name__ == '__main__':
 	strs = ['leet', 'leetcode', 'leets', 'lee']
