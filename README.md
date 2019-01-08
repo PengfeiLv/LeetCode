@@ -34,7 +34,7 @@ LeetCode 刷题总结
     31.
     32.
     33.
-    34.
+    34.Find First and Last Position of Element in Sorted Array
     35.
     36.
     37.
