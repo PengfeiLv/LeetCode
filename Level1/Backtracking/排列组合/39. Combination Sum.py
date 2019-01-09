@@ -3,7 +3,7 @@
 # @Author  : Lvpengfei
 
 """
-这里用到的是回溯法 backtracking：
+这里用到的是回溯法 Backtracking：
 	更明显的写法是
 	if target<0:
 		return
