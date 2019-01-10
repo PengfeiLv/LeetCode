@@ -29,28 +29,28 @@ LeetCode 刷题总结
     26.Remove Duplicates from Sorted Array
     27.Remove Element
     28.Implement strStr() (KMP待完成)
-    29.
+    29.Divide Two Integers
     30.
     31.
     32.
-    33.
+    33.Search in Rotated Sorted Array
     34.Find First and Last Position of Element in Sorted Array
-    35.
-    36.
-    37.
-    38.
+    35.Search Insert Position
+    36.Valid Sudoku
+    37.Sudoku Solver
+    38.Count and Say
     39.Combination Sum
     40.Combination Sum II
-    41.
-    42.
-    43.
+    41.First Missing Positive
+    42.Trapping Rain Water
+    43.Multiply Strings
     44.
     45.
     46.Permutations
     47.Permutations II
-    48.
-    49.
-    50.
+    48.Rotate Image
+    49.Group Anagrams
+    50.Pow(x, n) (Binary search)
     51.
     52.
     53.
