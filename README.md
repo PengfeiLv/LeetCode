@@ -85,7 +85,7 @@ LeetCode 刷题总结
     82.
     83.
     84.Largest Rectangle in Histogram
-    85.
+    85.Maximal Rectangle
     86.
     87.
     88.
@@ -101,3 +101,8 @@ LeetCode 刷题总结
     98.
     99.
     100.
+
+    121. Best Time to Buy and Sell Stock
+    122. Best Time to Buy and Sell Stock II
+    123. Best Time to Buy and Sell Stock III
+    136. Single Number
