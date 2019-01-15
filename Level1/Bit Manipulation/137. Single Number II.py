@@ -10,6 +10,15 @@
 def singleNumber1(nums):
 	return (3*sum(set(nums))-sum(nums))//2
 
+def singleNumber2(nums):
+	one, two = 0, 0
+	for n in nums:
+		one = (one^n) & (~two)
+		two = (two^n) & (~one)
+	return one
+
 if __name__ == "__main__":
 	nums = [0, 1, 0, 1, 0, 1, 99]
 	print(singleNumber1(nums))
+	print(singleNumber2(nums))
+
