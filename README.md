@@ -131,3 +131,6 @@ LeetCode 刷题总结
     279. Perfect Squares
     283. Move Zeroes
     287. Find the Duplicate Number
+    300. Longest Increasing Subsequence
+    301. Remove Invalid Parentheses
+    309. Best Time to Buy and Sell Stock with Cooldown
