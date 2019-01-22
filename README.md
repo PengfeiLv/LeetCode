@@ -134,3 +134,9 @@ LeetCode 刷题总结
     300. Longest Increasing Subsequence
     301. Remove Invalid Parentheses
     309. Best Time to Buy and Sell Stock with Cooldown
+    312. Burst Balloons
+    322. Coin Change
+    338. Counting Bits
+    347. Top K Frequent Elements
+    394. Decode String
+    406. Queue Reconstruction by Height
