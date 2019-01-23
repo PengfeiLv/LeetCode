@@ -140,3 +140,8 @@ LeetCode 刷题总结
     347. Top K Frequent Elements
     394. Decode String
     406. Queue Reconstruction by Height
+    416. Partition Equal Subset Sum
+    438. Find All Anagrams in a String
+    448. Find All Numbers Disappeared in an Array
+    461. Hamming Distance
+    494. Target Sum
