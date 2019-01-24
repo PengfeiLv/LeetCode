@@ -145,3 +145,8 @@ LeetCode 刷题总结
     448. Find All Numbers Disappeared in an Array
     461. Hamming Distance
     494. Target Sum
+    560. Subarray Sum Equals K
+    581. Shortest Unsorted Continuous Subarray
+    621. Task Scheduler
+    647. Palindromic Substrings
+    771. Jewels and Stones
