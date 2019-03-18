@@ -4,13 +4,13 @@ LeetCode 刷题总结
     1.Two Sum
     2.Add Two Numbers
     3.Longest Substring Without Repeating Characters
-    4.
+    4.Median of Two Sorted Arrays
     5.Longest Palindromic Substring (Manacher算法待完成)
     6.ZigZag Conversion
     7.Reverse Integer
     8.String to Integer (atoi)
     9.Palindrome Number
-    10.
+    10.Regular Expression Matching
     11.Container With Most Water
     12.Integer to Roman
     13.Roman to Integer
@@ -23,16 +23,16 @@ LeetCode 刷题总结
     20.Valid Parentheses
     21.Merge Two Sorted Lists
     22.Generate Parentheses
-    23.
+    23.Merge k Sorted Lists
     24.Swap Nodes in Pairs
-    25.
+    25.Reverse Nodes in k-Group
     26.Remove Duplicates from Sorted Array
     27.Remove Element
     28.Implement strStr() (KMP待完成)
-    29.Divide Two Integers
+    29.Divide Two Integers(和Binary Search有啥关系吗？)
     30.
-    31.
-    32.
+    31.Next Permutation
+    32.Longest Valid Parentheses
     33.Search in Rotated Sorted Array
     34.Find First and Last Position of Element in Sorted Array
     35.Search Insert Position
